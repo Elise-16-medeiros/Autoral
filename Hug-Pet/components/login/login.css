@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+header {
+    background-color: #f2b705;
+
+}
+
+.navbar .navbar-brand {
+    color: #bf6b04;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #bf6b04;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #f2c791;
+}
+
+.container {
+    display: flex;
+    margin-left: 20rem;
+    margin-top: 10rem;
+}
+
+.cadastro {
+    display: flex;
+    margin-left: 20rem;
+    margin-top: 10rem;
+}
+
+.text-center {
+    margin-top:2rem;
+}
+
+ 
